@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Kujanski.Mediator/v17
+/Kujanski.Mediator/bin/Debug/net5.0/ref/AAOS.Mediator.dll
+/Kujanski.Mediator/bin/Debug
+/Kujanski.Mediator/obj
+/Kujanski.Mediator.DependencyInjection/bin/Debug/net5.0
+/Kujanski.Mediator.DependencyInjection/obj
+/Kujanski.Mediator.Sample/bin/Debug/net5.0
+/Kujanski.Mediator.Sample/obj
